@@ -2,7 +2,7 @@ Package.describe({
     name: 'chrisdubya:foundation-apps',
     summary: 'Foundation Apps Wrapper for Meteor.',
     version: '1.0.2',
-    git: 'https://github.com/chrisdubya/foundation-apps-meteor',
+    git: 'https://github.com/chrisdubya/foundation-apps',
     documentation: 'meteor-README.md'
 });
 
